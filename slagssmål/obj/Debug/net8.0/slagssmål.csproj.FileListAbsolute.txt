@@ -1,0 +1,14 @@
+C:\Users\romeo.calderon\Documents\programering 1\Slagsmålsspelet\slagssmål\bin\Debug\net8.0\slagssmål.exe
+C:\Users\romeo.calderon\Documents\programering 1\Slagsmålsspelet\slagssmål\bin\Debug\net8.0\slagssmål.deps.json
+C:\Users\romeo.calderon\Documents\programering 1\Slagsmålsspelet\slagssmål\bin\Debug\net8.0\slagssmål.runtimeconfig.json
+C:\Users\romeo.calderon\Documents\programering 1\Slagsmålsspelet\slagssmål\bin\Debug\net8.0\slagssmål.dll
+C:\Users\romeo.calderon\Documents\programering 1\Slagsmålsspelet\slagssmål\bin\Debug\net8.0\slagssmål.pdb
+C:\Users\romeo.calderon\Documents\programering 1\Slagsmålsspelet\slagssmål\obj\Debug\net8.0\slagssmål.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romeo.calderon\Documents\programering 1\Slagsmålsspelet\slagssmål\obj\Debug\net8.0\slagssmål.AssemblyInfoInputs.cache
+C:\Users\romeo.calderon\Documents\programering 1\Slagsmålsspelet\slagssmål\obj\Debug\net8.0\slagssmål.AssemblyInfo.cs
+C:\Users\romeo.calderon\Documents\programering 1\Slagsmålsspelet\slagssmål\obj\Debug\net8.0\slagssmål.csproj.CoreCompileInputs.cache
+C:\Users\romeo.calderon\Documents\programering 1\Slagsmålsspelet\slagssmål\obj\Debug\net8.0\slagssmål.dll
+C:\Users\romeo.calderon\Documents\programering 1\Slagsmålsspelet\slagssmål\obj\Debug\net8.0\refint\slagssmål.dll
+C:\Users\romeo.calderon\Documents\programering 1\Slagsmålsspelet\slagssmål\obj\Debug\net8.0\slagssmål.pdb
+C:\Users\romeo.calderon\Documents\programering 1\Slagsmålsspelet\slagssmål\obj\Debug\net8.0\slagssmål.genruntimeconfig.cache
+C:\Users\romeo.calderon\Documents\programering 1\Slagsmålsspelet\slagssmål\obj\Debug\net8.0\ref\slagssmål.dll
